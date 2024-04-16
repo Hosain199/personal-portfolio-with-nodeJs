@@ -1,0 +1,14 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "A node and express JS project for personl portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hosain Mahmud",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
